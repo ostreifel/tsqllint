@@ -9,7 +9,7 @@ max_jobs: 2
 #---------------------------------#
 
 environment:
-  nodejs_version: "6"
+  nodejs_version: "4"
 
 image: Visual Studio 2017
 
